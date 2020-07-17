@@ -17,7 +17,7 @@ class Index{
     public function test2(){
 
         return 'hello word';
-
+      echo  '222';
 
 
     }
