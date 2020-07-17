@@ -1,6 +1,32 @@
 <?php
-echo '1';
-echo '2';
-echo '这个代码能保留吗';
-echo '3';
-?>
+echo md5("128").PHP_EOL;die;
+//user_id  8880100895635125
+//6860100895635588
+//school_id  2556
+class Index{
+    public function __construct()
+    {
+        echo 'hello word'.'\n';
+    }
+
+    public function test(){
+
+        echo 'test_METHOD';
+    }
+
+    public function test2(){
+
+        return 'hello word';
+
+
+
+    }
+}
+
+$test = new Index();
+$test->test();
+
+
+
+
+
