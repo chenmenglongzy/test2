@@ -18,6 +18,7 @@ class Index{
 
         return 'hello word';
       echo  '222';
+      echo '333';
 
 
     }
