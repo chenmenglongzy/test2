@@ -1,7 +1,2 @@
 <?php
 echo 'hello word';
-
-
-
-
-
