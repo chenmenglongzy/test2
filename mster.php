@@ -1,4 +1,4 @@
 <?php
-echo 'master';
-echo '2';
+//echo 'master';
+//echo '2';
 ?>
