@@ -24,11 +24,11 @@ function actionDdjNotifyV1() {
     $this->ret = [];
     exit;
 }
-function  test1(){
-    echo '11';
-}
-function test(){
-
-    echo '222';
-}
+//function  test1(){
+//    echo '11';
+//}
+//function test(){
+//
+//    echo '222';
+//}
 ?>
