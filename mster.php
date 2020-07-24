@@ -33,6 +33,8 @@ function test(){
     $a = '2';
     if($a == 1){
         echo '2222';
+    }else{
+        echo '55555';
     }
     echo '3333';
 }
