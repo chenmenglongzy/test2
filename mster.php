@@ -36,6 +36,11 @@ function test(){
     }else{
         echo '55555';
     }
+    if($a == 5){
+        echo '555';
+    }else{
+        echo '6666';
+    }
     echo '3333';
 }
 ?>
