@@ -36,6 +36,9 @@ function test(){
     }else{
         echo '4444';
     }
+    if($a == 5){
+        echo '555';
+    }
     echo '3333';
 }
 ?>
