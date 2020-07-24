@@ -30,6 +30,10 @@ function  test1(){
 function test(){
 
     echo '1111';
+    $a = '2';
+    if($a == 1){
+        echo '2222';
+    }
     echo '3333';
 }
 ?>
